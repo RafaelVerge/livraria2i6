@@ -1,0 +1,10 @@
+.titulo {
+    text-align: center;
+    padding: 50px;
+    font-family: Roboto;
+}
+
+.fixo {
+    position: sticky;
+    top: 0;
+}
